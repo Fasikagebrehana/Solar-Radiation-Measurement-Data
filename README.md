@@ -11,17 +11,23 @@ Country-specific analysis using Jupyter Notebooks.
 Data visualization for solar radiation patterns.
 Installation
 Clone this repository:
-git clone https://github.com/Mihretthe/Solar-Radiation-Analysis.git
+git clone https://github.com/Fasikagebrehana/Solar-Radiation-Analysis.git
 Navigate to the project directory
 cd Solar-Radiation-Analysis
 Install the required dependencies
 pip install -r requirements.txt
+
+
+
 Usage
 Streamlit App: Navigate to the app directory and run:
 streamlit run app/main.py
 Jupyter Notebooks: Open and run the notebooks in the notebooks directory for specific analyses.
 Data
 The project uses solar radiation data stored in CSV files. Ensure you place the data in the appropriate directory before running the app or notebooks.
+
+
+
 
 Link to the Dashboard
 Streamlit App: Navigate to the app directory and run:
